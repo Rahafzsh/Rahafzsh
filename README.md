@@ -1,5 +1,5 @@
 # Hello, I am Rahaf! a senior AI student.
-<p>I am interested in various Artificial Intelligence fields, besides Software Engineering and Web Development. </p> <br>
+<p>I am interested in various Artificial Intelligence fields, besides Software Engineering and Web Development. </p>
 <li> I am currently working on my Senior Project. </li>
 
 
