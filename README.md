@@ -22,6 +22,6 @@
 
 # 
 ### 📊 Stats
-<div><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" /></a></div>
+<div style= "display: block;margin-left: auto;margin-right: auto;" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" /></a></div>
 
 
