@@ -23,6 +23,10 @@
 # 
 ### 📊 Stats
 <div align="center" dir="auto" ><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" /></a></div>
-# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafzsh&layout=compact&theme=nord)
+
+<div align="center" dir="auto" > 
+  
+  # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafzsh&layout=compact&theme=nord)
 
 
+</div>
