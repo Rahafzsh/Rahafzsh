@@ -1,6 +1,6 @@
 # Hello, I am Rahaf! a senior AI student.
 
-<p style="font-size: 22px;">Skilled in Machine Learning and Data Science. Interested in various Artificial Intelligence fields, besides Software Engineering and Web Development. </p>
+<p>Skilled in Machine Learning and Data Science. Interested in various Artificial Intelligence fields, besides Software Engineering and Web Development. </p>
 <li> I am currently working on my Senior Project. </li>
 
 
@@ -24,7 +24,8 @@
 
 # 
 ### 📊 Stats
-<div align="center" dir="auto" ><img src="https://streak-stats.demolab.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" /></div>
+<div align="center" dir="auto" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" />
+</div>
 
 <div align="center" dir="auto" > 
   
