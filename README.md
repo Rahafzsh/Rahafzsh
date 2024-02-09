@@ -24,8 +24,6 @@
 
 # 
 ### 📊 Stats
-<div align="center" dir="auto" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" />
-</div>
 
 <div align="center" dir="auto" > 
   
