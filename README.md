@@ -29,8 +29,6 @@ Skilled in Machine Learning and Data Science. Interested in various Artificial I
 </div>
 <div align="center" dir="auto" > 
   
-  # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafzsh&layout=compact&theme=nord)
   # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafzsh&hide_progress=true&theme=nord)
-
 
 </div>
