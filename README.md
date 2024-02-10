@@ -24,7 +24,9 @@ Skilled in Machine Learning and Data Science. Interested in various Artificial I
 
 # 
 ### 📊 Stats
-
+<div align="center" dir="auto" > 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Rahafzsh&theme=nord" alt="GitHub Streak" />
+</div>
 <div align="center" dir="auto" > 
   
   # ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahafzsh&layout=compact&theme=nord)
