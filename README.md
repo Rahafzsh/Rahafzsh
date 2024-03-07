@@ -1,4 +1,4 @@
-# Hello, I am Rahaf! a senior AI student.
+# Hello, I am Rahaf! a Senior AI Student.
 
 Skilled in Machine Learning and Data Science. Interested in various Artificial Intelligence fields, besides Software Engineering and Web Development.
 * I am currently working on my Senior Project (Bunnah). 
